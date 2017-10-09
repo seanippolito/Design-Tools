@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:DesignTools.xcodeproj">
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIButtonX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIImageViewX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UILabelX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UISliderX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UITextFieldX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIViewAnchorPoint.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIViewControllerX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIViewX.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIViewXRadialGradient.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sean/Documents/WorkSpace/Design-Tools/DesignTools/UIVisualEffectViewX.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

@@ -121,6 +121,7 @@
 		1484E58B1F8B1E9200699E32 /* DesignTools */ = {
 			isa = PBXGroup;
 			children = (
+				1484E60F1F8C295000699E32 /* UIDesignables */,
 				1484E58C1F8B1E9200699E32 /* AppDelegate.swift */,
 				1484E58E1F8B1E9200699E32 /* ViewController.swift */,
 				1484E5901F8B1E9200699E32 /* Main.storyboard */,
@@ -128,17 +129,6 @@
 				1484E5981F8B1E9200699E32 /* LaunchScreen.storyboard */,
 				1484E59B1F8B1E9200699E32 /* Info.plist */,
 				1484E5931F8B1E9200699E32 /* DesignTools.xcdatamodeld */,
-				1484E5FE1F8C12A700699E32 /* UIButtonX.swift */,
-				1484E5FB1F8C12A700699E32 /* UIImageViewX.swift */,
-				1484E6021F8C12A700699E32 /* UILabelX.swift */,
-				1484E5FD1F8C12A700699E32 /* UISliderX.swift */,
-				1484E6011F8C12A700699E32 /* UITextFieldX.swift */,
-				1484E6041F8C12A700699E32 /* UIViewAnchorPoint.swift */,
-				1484E5FF1F8C12A700699E32 /* UIViewControllerX.swift */,
-				1484E6031F8C12A700699E32 /* UIViewX.swift */,
-				1484E5FC1F8C12A700699E32 /* UIViewXRadialGradient.swift */,
-				1484E6001F8C12A700699E32 /* UIVisualEffectViewX.swift */,
-				1484E5D11F8B222100699E32 /* UIButtonXExtension.swift */,
 			);
 			path = DesignTools;
 			sourceTree = "<group>";
@@ -159,6 +149,24 @@
 				1484E5B11F8B1E9200699E32 /* Info.plist */,
 			);
 			path = DesignToolsUITests;
+			sourceTree = "<group>";
+		};
+		1484E60F1F8C295000699E32 /* UIDesignables */ = {
+			isa = PBXGroup;
+			children = (
+				1484E5FE1F8C12A700699E32 /* UIButtonX.swift */,
+				1484E5FB1F8C12A700699E32 /* UIImageViewX.swift */,
+				1484E6021F8C12A700699E32 /* UILabelX.swift */,
+				1484E5FD1F8C12A700699E32 /* UISliderX.swift */,
+				1484E6011F8C12A700699E32 /* UITextFieldX.swift */,
+				1484E6041F8C12A700699E32 /* UIViewAnchorPoint.swift */,
+				1484E5FF1F8C12A700699E32 /* UIViewControllerX.swift */,
+				1484E6031F8C12A700699E32 /* UIViewX.swift */,
+				1484E5FC1F8C12A700699E32 /* UIViewXRadialGradient.swift */,
+				1484E6001F8C12A700699E32 /* UIVisualEffectViewX.swift */,
+				1484E5D11F8B222100699E32 /* UIButtonXExtension.swift */,
+			);
+			path = UIDesignables;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

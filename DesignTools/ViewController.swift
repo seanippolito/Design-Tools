@@ -15,6 +15,18 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    @IBAction func pulseButtonTapped(_ sender: UIButtonX) {
+        sender.pulsate()
+    }
+    
+    @IBAction func flashButtonTapped(_ sender: UIButtonX) {
+        sender.flash()
+    }
+    
+    @IBAction func shakeButtonTapped(_ sender: UIButtonX) {
+        sender.shake()
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
